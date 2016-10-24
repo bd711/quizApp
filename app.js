@@ -17,6 +17,22 @@ var questions = [
 		title: 'What is the nickname of the Boston Subway system?',
 		answers: ['the Metro','the Subway','the T','the Tube'],
 		correct: 2
+	},{
+		title: 'Which of these is not a local Boston Sports Team?',
+		answers: ['Patriots','Bruins','Red Sox','Lions'],
+		correct: 3
+	},{
+		title: 'Which team did Ray Bourque win a Stanley Cup with?',
+		answers: ['Boston Bruins','Detroit Red Wings','Colorado Avalanche','Montreal Canadiens'],
+		correct: 2
+	},{
+		title: 'Tom Brady replaced which injured franchise quarterback for the Patriots in 2001?',
+		answers: ['Julian Edelman','Doug Flutie','Ryan Mallet','Drew Bledsoe'],
+		correct: 3
+	},{
+		title: 'Which of these is not an end stop on the Red Line?',
+		answers: ['Alewife','Winchester','Braintree','Ashmont'],
+		correct: 1
 	},
 ];
 
